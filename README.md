@@ -25,7 +25,7 @@ Documentation : https://api.anime-dex.workers.dev
 
 ## Deploy To Cloudflare (Easy Way)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/TechShreyash/AnimeDexApi)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/famhawiteinfosysd/AnimeDexApi)
 
 ### Deploy Tutorial
 
